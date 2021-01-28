@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "homework",
+        "types": [ "login", "email","admin","account"]
+    }]
+}
